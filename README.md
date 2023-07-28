@@ -1,5 +1,5 @@
 - 👋 Hey there! 
-- 🌱 I am currently learning Backend development!
+- 🌱 I am currently learning Backend Development!
 - 👀 Talks about #web3 #blockchain 
 - 📫 How to reach me https://linktr.ee/vaishnaviyerge
 
