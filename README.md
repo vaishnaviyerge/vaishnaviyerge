@@ -1,7 +1,7 @@
-- 👋 Hey there! Myself Vaishnavi Yerge
-- 🌱 Current hands on Full stack web dev 
+- 👋 Hey there! 
+- 🌱 I am currently working on Backend development!
 - 👀 Talks about #web3 #blockchain 
-- 📫 How to reach me https://www.linkedin.com/in/vaishnavi-yerge-b6195725b/...
+- 📫 How to reach me https://linktr.ee/vaishnaviyerge
 
 <!---
 vaishnaviyerge/vaishnaviyerge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
