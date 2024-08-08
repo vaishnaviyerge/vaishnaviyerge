@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! I'm Vaishnavi Yerge</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
- <p align="center"> <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" alt="vaishnaviyerge" /> </p>
+ <p align="center"> <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" width="300" height="300"  alt="vaishnaviyerge" /> </p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vaishnaviyerge&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnaviyerge" /> </p>
@@ -24,9 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vaishnavi yerge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi yerge" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yergevaishnavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yergevaishnavi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/yergevaishnavi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/yergevaishnavi/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vaishnavi-yerge-b6195725b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi yerge" height="30" width="40" /></a>
+ <a href="https://leetcode.com/u/yergevaishnavi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yergevaishnavi" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/yergevaishnavi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/yergevaishnavi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
