@@ -15,6 +15,8 @@
 - 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaishnaviyerge](https://github.com/vaishnaviyerge)
+ 
+- 📝 I share my experinces through blogs here [https://medium.com/@yergevaishnavi)
 
 - 💬 Ask me about **Full Stack Development**
 
