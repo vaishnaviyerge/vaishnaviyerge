@@ -10,7 +10,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnaviyerge" alt="vaishnaviyerge" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on **AI-ChatBot**
+- 🔭 I’m currently working in **iMocha**
 
 - 🌱 I’m currently learning **AI**
 
