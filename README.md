@@ -10,13 +10,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnaviyerge" alt="vaishnaviyerge" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on **VirtualNoticeBoard-Full Stack Java**
+- 🔭 I’m currently working on **AI-ChatBot**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaishnaviyerge](https://github.com/vaishnaviyerge)
 
-- 💬 Ask me about **React , Angular**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **yergevaishnavi@gmail.com**
 
