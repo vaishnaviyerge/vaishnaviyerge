@@ -20,7 +20,8 @@
 
 - 📫 How to reach me **yergevaishnavi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YPDc_sx6-ERQCYuXqxLQpDhXIPslBDJZ/view?usp=sharing](https://drive.google.com/file/d/1YPDc_sx6-ERQCYuXqxLQpDhXIPslBDJZ/view?usp=sharing)
+- 📄 Know about my experiences 
+https://drive.google.com/file/d/1hqAuzIWwu4uQXGubw_PHHHsjA3UU5YxA/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
