@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **yergevaishnavi@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 connect - 
 https://linktr.ee/vaishnaviyerge
 <h3 align="left">Connect with me:</h3>
 <p align="left">
