@@ -10,16 +10,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnaviyerge" alt="vaishnaviyerge" /></a> </p>
 <br>
 
-- 🔭 I’m currently working at **Amazon**
-
-- 🌱 Currently learning **Full Stack Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/vaishnaviyerge](https://github.com/vaishnaviyerge)
- 
-- 📝 I share my experinces through blogs here https://medium.com/@yergevaishnavi
-
-- 💬 Ask me about **DSA & Development**
-
 - 📫 How to reach me **yergevaishnavi@gmail.com**
 
 - 📄 connect - 
